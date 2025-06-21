@@ -17,7 +17,7 @@ A feature-rich To-Do List app that helps users manage their daily tasks with an 
 - Drag-and-drop task reordering 🧲
 
 ### 🖼 Screenshots
-> ![To-Do List Screenshot](images/todo-list.png)
+> ![To-Do List Screenshot](Python/images/todo-list.png)
 
 ---
 
@@ -32,7 +32,7 @@ A modern calculator that performs basic arithmetic operations with a friendly an
 - Responsive UI with button highlighting
 
 ### 🖼 Screenshots
-> ![Calculator Screenshot](images/calculator.png)
+> ![Calculator Screenshot](Python/images/calculator.png)
 
 ---
 
@@ -47,7 +47,7 @@ Generate secure and random passwords based on user-specified length and complexi
 - Copy to clipboard button 📋
 
 ### 🖼 Screenshots
-> ![Password Generator Screenshot](images/password-generator.png)
+> ![Password Generator Screenshot](Python/images/password-generator.png)
 
 ---
 
@@ -63,7 +63,7 @@ A GUI-based Contact Book to manage personal or professional contacts with persis
 - Clean, calm UI
 
 ### 🖼 Screenshots
-> ![Contact Manager Screenshot](images/contact-manager.png)
+> ![Contact Manager Screenshot]Python/images/contact-manager.png)
 
 ---
 
