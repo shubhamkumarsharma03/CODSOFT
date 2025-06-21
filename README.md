@@ -63,7 +63,7 @@ A GUI-based Contact Book to manage personal or professional contacts with persis
 - Clean, calm UI
 
 ### 🖼 Screenshots
-> ![Contact Manager Screenshot]Python/images/contact-manager.png)
+> ![Contact Manager Screenshot](Python/images/contact-manager.png)
 
 ---
 
