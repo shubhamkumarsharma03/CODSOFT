@@ -1,0 +1,15 @@
+[
+    {
+        "task": "Internship projects",
+        "due": "2025-06-25",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "task": "Python Project",
+        "due": "2025-06-26",
+        "priority": "Medium",
+        "status": "Pending"
+    }
+   
+]
